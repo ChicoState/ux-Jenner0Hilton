@@ -1,1 +1,2 @@
-# ___'s UX Journal
+# Jenner Hilton's UX Journal
+
