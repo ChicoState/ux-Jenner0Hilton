@@ -1,3 +1,8 @@
+---
+title: Figma UX Journal
+layout: page
+permalink: /journal/figma-ux-journal/
+---
 # Jenner Hilton's UX Journal Figma
 Over this semester I have been learning about the good, the bad, and the ugly of UX. After seeing some of the abominations of examples I was questioning what I would write my journal about. Then it came knocking on my door, Figma.  
 Figma has it all good and bad. To quickly cover the process, users must make an account with Figma to make documents and projects but this process is standard, nothing special or bad with it. Moving on to the home page. If you are signed in on an account that isn't a full account like mine you will have access to files and projects that are shared with you. This page has really good **Natural Mapping**. What you see is what you get so you can see all the projects you are involved in and opening those projects is as easy as clicking on the project. This also matches my **Conceptual Model** where opening a project should be I can see it I can access it. Now moving on to actually building projects in Figma is a different story.  
