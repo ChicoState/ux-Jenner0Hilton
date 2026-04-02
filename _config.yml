@@ -1,0 +1,16 @@
+title: My GitHub Pages Site
+description: Portfolio and journal pages
+theme: minima
+
+markdown: kramdown
+
+# Make sure Jekyll processes these folders/files
+include:
+  - journal
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
